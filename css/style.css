@@ -1,0 +1,21 @@
+h2{
+	color: purple;
+}
+h1{
+	color: red;
+	background-color: black;
+	
+
+}
+p{
+	color: black;
+	border-color: green;
+	font-family: verdana;
+}
+img{
+	float: center;
+
+}
+body{
+	background-color: white;
+}
